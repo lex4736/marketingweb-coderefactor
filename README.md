@@ -16,4 +16,10 @@
 
 <-- PREVIEW OF FINAL RESULT -->
 <p>
-<img src="./assets/images/Screenshot 2020-10-03 16.48.12.png"></p>
+<h3> Select Button Below to view live refactored webpage</h3>
+<button>
+<a href="https://lex4736.github.io/marketingweb-coderefactor/"> Visit Webpage </a></button>
+<p>
+<h3>See below for screenshot of refactored webpage</h3>
+<br>
+<img src="./assets/images/Screenshot 2020-10-03 16.48.12.png" alt="Screenshot of Refactored webpage"></>
